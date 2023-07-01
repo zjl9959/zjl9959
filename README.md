@@ -1,7 +1,7 @@
 ![c++](https://img.shields.io/badge/-c%2B%2B-green) ![python](https://img.shields.io/badge/-python-blue) ![algorithm](https://img.shields.io/badge/-algorithm-orange) ![NP-hard](https://img.shields.io/badge/-NP--hard-blueviolet)
 ### 👋 Welcome to my github page!
 
-__I am a free developer focused on algorithms, and data visualization.__
+__I am focusing on algorithms, and data visualization.__
 
 ### Algorithms & Visualization
 
@@ -18,7 +18,7 @@ These are some examples:
 | [TrieTree.ipynb](https://github.com/zjl9959/algviz-launch/blob/main/notebooks/tree/TrieTree.ipynb) | The creation and use of trie tree. | <img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz-launch@master/svgs/TrieTree_sec.svg" width=150px /> |
 | [TopologicalSorting.ipynb](https://github.com/zjl9959/algviz-launch/blob/main/notebooks/graph/TopologicalSorting.ipynb) | Solve topological sorting problem with dfs and Kahns algorithm | <img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz-launch@master/svgs/TopologicalSorting_sec.svg" width=180px /> |
 
-*You can more in the Gitpod online editor by click this button:* 
+*You can get more information from the Gitpod online editor by click this button: 👉* 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/zjl9959/algviz-launch)
 
 ----

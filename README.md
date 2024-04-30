@@ -5,9 +5,9 @@ __I am focusing on algorithms, and data visualization.__
 
 ### Algorithms & Visualization
 
-I'm developing an algorithm animation engine [algviz](https://algviz.com) recently. It can help you create live animations for your algorithm in Jupyter notebook, please star this [project](https://github.com/zjl9959/algviz) if you are interested.
+I'm developing an algorithm animation engine [algviz](https://zjl9959.github.io/algviz/) recently. It can help you create live animations for your algorithm in Jupyter notebook, please star this [project](https://github.com/zjl9959/algviz) if you are interested.
 
-[<img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz@main/docs/images/logo_v1.svg"/>](https://algviz.com)
+[<img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz@main/docs/images/logo_v1.svg"/>](https://zjl9959.github.io/algviz/)
 
 These are some examples:
 

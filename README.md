@@ -1,26 +1,9 @@
 ![c++](https://img.shields.io/badge/-c%2B%2B-green) ![python](https://img.shields.io/badge/-python-blue) ![algorithm](https://img.shields.io/badge/-algorithm-orange) ![NP-hard](https://img.shields.io/badge/-NP--hard-blueviolet)
 ### 👋 Welcome to my github page!
 
-__I am focusing on algorithms, and data visualization.__
+__I am now focusing on MaxSAT Solver.__
 
-### Algorithms & Visualization
-
-I'm developing an algorithm animation engine [algviz](https://zjl9959.github.io/algviz/) recently. It can help you create live animations for your algorithm in Jupyter notebook, please star this [project](https://github.com/zjl9959/algviz) if you are interested.
-
-[<img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz@main/docs/images/logo_v1.svg"/>](https://zjl9959.github.io/algviz/)
-
-These are some examples:
-
-|  Algorithm  |   Description   |  Animation  |
-| :-----:  | :-----: | :-----:   |
-|  [BubbleSort.ipynb](https://github.com/zjl9959/algviz-launch/blob/main/notebooks/classic/BubbleSort.ipynb)   | Implement of the [bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) algorithm. |  <img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz-launch@master/svgs/BubbleSort_sec.svg" width=120px/> |
-|  [NQueens.ipynb](https://github.com/zjl9959/algviz-launch/blob/main/notebooks/backtracking/NQueens.ipynb)   | The algorithm to solve the [NQueens](https://leetcode.com/problems/n-queens/) problem. |  <img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz-launch@master/svgs/NQueens_sec.svg" width=120px /> |
-| [TrieTree.ipynb](https://github.com/zjl9959/algviz-launch/blob/main/notebooks/tree/TrieTree.ipynb) | The creation and use of trie tree. | <img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz-launch@master/svgs/TrieTree_sec.svg" width=150px /> |
-| [TopologicalSorting.ipynb](https://github.com/zjl9959/algviz-launch/blob/main/notebooks/graph/TopologicalSorting.ipynb) | Solve topological sorting problem with dfs and Kahns algorithm | <img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz-launch@master/svgs/TopologicalSorting_sec.svg" width=180px /> |
-
-*You can get more information from the Gitpod online editor by click this button: 👉* 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/zjl9959/algviz-launch)
-
+These are related topics:
 ----
 
 ### NP-hard problems
